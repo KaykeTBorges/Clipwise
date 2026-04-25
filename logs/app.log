@@ -1,0 +1,18 @@
+2026-04-23 16:52:34,434 - api - INFO - Recebendo upload: teste.mp4
+2026-04-23 16:52:34,492 - processor - INFO - Iniciando processamento do vídeo: 226b0204-2c90-4d4f-b26f-f09f64d35e59
+2026-04-23 16:52:34,532 - processor - INFO - Vídeo salvo com sucesso: storage/videos/226b0204-2c90-4d4f-b26f-f09f64d35e59.mp4
+2026-04-23 16:52:34,532 - processor - INFO - Extraindo áudio de: storage/videos/226b0204-2c90-4d4f-b26f-f09f64d35e59.mp4
+2026-04-23 16:54:01,849 - processor - INFO - Áudio extraído com sucesso: storage/audio/226b0204-2c90-4d4f-b26f-f09f64d35e59.wav
+2026-04-23 16:54:01,850 - transcriber - INFO - Iniciando transcrição: storage/audio/226b0204-2c90-4d4f-b26f-f09f64d35e59.wav
+2026-04-23 16:54:27,773 - transcriber - INFO - Transcrição concluída: 1 segmentos
+2026-04-23 16:54:27,876 - processor - INFO - Processamento concluído: 226b0204-2c90-4d4f-b26f-f09f64d35e59
+2026-04-23 16:54:27,877 - api - INFO - Processamento concluído do 226b0204-2c90-4d4f-b26f-f09f64d35e59
+2026-04-23 17:08:45,942 - api - INFO - Recebendo upload: teste.mp4
+2026-04-23 17:08:45,993 - processor - INFO - Iniciando processamento do vídeo: 674ac79e-f8a7-4793-8b8a-cc8667b46151
+2026-04-23 17:08:46,035 - processor - INFO - Vídeo salvo com sucesso: storage/videos/674ac79e-f8a7-4793-8b8a-cc8667b46151.mp4
+2026-04-23 17:08:46,035 - processor - INFO - Extraindo áudio de: storage/videos/674ac79e-f8a7-4793-8b8a-cc8667b46151.mp4
+2026-04-23 17:08:46,637 - processor - INFO - Áudio extraído com sucesso: storage/audio/674ac79e-f8a7-4793-8b8a-cc8667b46151.wav
+2026-04-23 17:08:46,638 - transcriber - INFO - Iniciando transcrição: storage/audio/674ac79e-f8a7-4793-8b8a-cc8667b46151.wav
+2026-04-23 17:09:59,029 - transcriber - INFO - Transcrição concluída: 9 segmentos
+2026-04-23 17:09:59,101 - processor - INFO - Processamento concluído: 674ac79e-f8a7-4793-8b8a-cc8667b46151
+2026-04-23 17:09:59,101 - api - INFO - Processamento concluído do 674ac79e-f8a7-4793-8b8a-cc8667b46151
